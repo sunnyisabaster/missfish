@@ -30,7 +30,7 @@ Currently, two trained MaskRCNN models are avaliable
 [download](https://drive.google.com/file/d/1x61gUG_CUpA-_L9c9WP7xyCRnhWXCi_a/view?usp=sharing)
 
 
-## Docker 
+## Docker
 To simplfy the setup, we used [tensorflow/tensorflow:1.15.0rc2-gpu-py3-jupyter](https://hub.docker.com/layers/tensorflow/tensorflow/1.15.0rc2-gpu-py3-jupyter/images/sha256-95d97c5c888e053af622964a150c205a39360064a962d7d5767038ad83b2d9b3?context=explore) docker conainer.
 
 ## Tools
